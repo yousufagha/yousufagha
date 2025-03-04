@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **the new startup I am working at**
 
-- 📫 How to reach me **yousuf@raen.ai**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/yousuf-agha/](https://www.linkedin.com/in/yousuf-agha/)
 
 
