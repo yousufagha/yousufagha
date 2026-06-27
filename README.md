@@ -8,4 +8,4 @@ Currently a Systems Analyst at Remunera, previously Data Scientist at Raen AI (D
 
 **Currently building:** LLM projects using RAG and agent frameworks
 
-Connect: [LinkedIn](https://linkedin.com/in/yousuf-agha) | yousufagha@gmail.com
+Connect: [LinkedIn](https://linkedin.com/in/yousuf-agha) 
