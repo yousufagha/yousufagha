@@ -6,8 +6,6 @@ Currently a Systems Analyst at Remunera, previously Data Scientist at Raen AI (D
 
 **What I work with:** Python, OpenAI API, LLM fine-tuning, prompt engineering, NLP, Streamlit, scikit-learn, TensorFlow, SQL, Power BI, Azure, AWS
 
-**Currently building:** an Azure-native AI agent project (targeting **AI-103: Azure AI App and Agent Developer Associate**) and a Foundry-style data pipeline (targeting **Palantir Foundry Data Engineer**) — daily progress logged in [daily-practice](https://github.com/yousufagha/daily-practice)
-
 ### Certifications
 
 - Google Data Analytics Specialisation — Google
