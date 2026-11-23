@@ -1,6 +1,6 @@
 # Hi, I'm Yousuf Agha
 
-AI engineer and data scientist in the UAE (Golden Visa to 2032, so no sponsorship needed). I build with large language models and data: fine-tuned GPT models, prompt and evaluation pipelines, and Python data pipelines that feed real decisions. I also publish research on generative AI.
+AI engineer and data scientist in the UAE (Golden Visa till 2032, so no sponsorship needed). I build with large language models and data: fine-tuned GPT models, prompt and evaluation pipelines, and Python data pipelines that feed real decisions. I also publish research on generative AI.
 
 **Portfolio:** [yousufagha.github.io](https://yousufagha.github.io)
 
