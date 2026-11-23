@@ -1,24 +1,29 @@
 # Hi, I'm Yousuf Agha
 
-AI engineer and data scientist based in Melbourne. I build and ship LLM-powered products, GPT fine-tuning, conversational AI, and end-to-end GenAI pipelines from prototype to client delivery.
+AI engineer and data scientist in the UAE (Golden Visa to 2032, so no sponsorship needed). I build with large language models and data: fine-tuned GPT models, prompt and evaluation pipelines, and Python data pipelines that feed real decisions. I also publish research on generative AI.
 
-Currently a Systems Analyst at Remunera, previously Data Scientist at Raen AI (Dubai) where I shipped production AI POCs for clients in education and insurance.
+**Portfolio:** [yousufagha.github.io](https://yousufagha.github.io)
 
-**What I work with:** Python, OpenAI API, LLM fine-tuning, prompt engineering, NLP, Streamlit, scikit-learn, TensorFlow, SQL, Power BI, Azure, AWS
+**Now:** Systems Analyst at Remunera (remote), open to AI, data science and ML engineering roles across the UAE and remote.
 
-### Certifications
-
-- Google Data Analytics Specialisation — Google
-- Azure AI for Developers: Process Images with Azure AI — LinkedIn Learning
-- LLMs: Text Classification for NLP using BERT — LinkedIn Learning
-- OpenAI API: Fine-Tuning — LinkedIn Learning
-- **In progress:** Azure AI-103 · Palantir Foundry Data Engineer
+**What I work with:** Python, SQL, pandas, OpenAI API, LLM fine-tuning, prompt engineering, model evaluation, NLP, PyTorch, TensorFlow, scikit-learn, Power BI, Tableau, Streamlit, Azure, AWS, Google Cloud
 
 ### Projects
 
-- [Job Market Insights Dashboard](https://github.com/yousufagha/ITW601) — scraped 9,000+ AU entry-level IT job ads, dashboards by role/city/skill
-- [SmartRentAI](https://github.com/yousufagha/SmartRentAI-Predicting-House-Rent-in-India-Using-Deep-Learning) — LSTM rent prediction on 4,700+ listings
-- [Fashion Recommendation Engine](https://github.com/yousufagha/fashionrecengine) — CNN feature extraction + clustering
-- [Stock Predictor App](https://github.com/yousufagha/stockpred) — Dash app, SVR price forecasting
+- [Dubai Real Estate and Golden Visa Analysis](https://github.com/yousufagha/ai-recommendations-portfolio): 1.8 million Dubai sales and 10.7 million rent contract lines from Dubai Land Department open data, analysed around the AED 2 million Golden Visa line ([live page](https://yousufagha.github.io/ai-recommendations-portfolio/))
+- [Job Market Insights Dashboard](https://github.com/yousufagha/ITW601): team lead; scraped 9,000+ Australian entry-level IT job ads and built dashboards by role, city and skill
+- [Beats by Dre Consumer Insights](https://github.com/yousufagha/beats-by-dre-externship): sentiment pipeline over 1,200+ reviews, 8 products, 5 markets
+- [Runway Radar](https://github.com/yousufagha/runway-radar): fashion trend detection from runway imagery and editorial text
 
-Connect: [LinkedIn](https://www.linkedin.com/in/yousuf-agha/)
+### Research
+
+- *Generative AI in Dark Web Policing and Investigation* (2026), book chapter, IGI Global
+- Two IEEE conference papers (2022). Full list on [Google Scholar](https://scholar.google.com/citations?user=RZ_ToiwAAAAJ)
+
+### Certifications
+
+- Google Data Analytics Specialisation, Google
+- OpenAI API: Fine-Tuning; LLMs: Text Classification for NLP using BERT; Azure AI for Developers (LinkedIn Learning)
+- **In progress:** Microsoft Azure AI-103, Palantir Foundry Data Engineer
+
+Connect: [Portfolio](https://yousufagha.github.io), [LinkedIn](https://www.linkedin.com/in/yousuf-agha/), [X](https://x.com/drsmartfish)
